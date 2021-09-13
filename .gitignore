@@ -1,4 +1,8 @@
 */build/*
+*/errors/*
+*/plot_error/*
+*/plot_path/*
+*/stats.txt
 
 # Prerequisites
 *.d
